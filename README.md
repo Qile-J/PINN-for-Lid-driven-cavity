@@ -1,2 +1,3 @@
 # PINN-for-Lid-driven-cavity
-Use PINN to solve the classical lid-driven cavity problem.
+Forward problem: Use physics-informed neural network (PINN) to solve the classical lid-driven cavity problem.
+Reconstruction: recover the entire flow field from data.
