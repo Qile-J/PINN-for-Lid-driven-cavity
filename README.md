@@ -1,5 +1,5 @@
 # PINN-for-Lid-driven-cavity
-This is a course project and not everything is correct.
+This is a course project with two problems:
 
 Forward problem: Use physics-informed neural network (PINN) to solve the classical lid-driven cavity problem.
 
